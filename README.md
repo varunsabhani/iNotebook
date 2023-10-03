@@ -1,0 +1,1 @@
+It is a project about storing notes on the cloud where a user can maintain their notes with complete privacy.
